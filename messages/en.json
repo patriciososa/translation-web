@@ -1,0 +1,627 @@
+{
+  "metadata": {
+    "title": "{companyName} | Certified Translation in 7 Languages",
+    "description": "Professional human translation between Spanish, English, French, German, Italian, Portuguese, and Chinese. Certified, legal, medical, and technical translations for businesses and individuals, with fast turnaround and full confidentiality."
+  },
+  "common": {
+    "skipToContent": "Skip to content",
+    "copyright": "© {year} {companyName}. All rights reserved."
+  },
+  "header": {
+    "nav": {
+      "home": "Home",
+      "services": "Services",
+      "industries": "Industries",
+      "languages": "Languages",
+      "about": "About",
+      "process": "How we work",
+      "faq": "FAQ",
+      "contact": "Contact"
+    },
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "languageSwitcher": "Site language"
+  },
+  "hero": {
+    "headline": "Professional translation you can trust",
+    "subtext": "Accurate human translation in Spanish, English, French, German, Italian, Portuguese, and Chinese for businesses and individuals. Fast turnaround, certified quality, and complete confidentiality.",
+    "showcase": {
+      "sourceLabel": "Spanish source",
+      "sourceText": "El presente Contrato permanecerá en vigor durante un período de veinticuatro (24) meses a partir de la fecha de su firma por ambas partes.",
+      "targetLabel": "English translation",
+      "targetText": "This Agreement shall remain in effect for a period of twenty-four (24) months from the date of signature by both parties.",
+      "badge": "Certified, human-translated, reviewed"
+    }
+  },
+  "services": {
+    "title": "Translation, transcription, and video services",
+    "description": "From a single birth certificate to a full annual report, a subtitled video, or a piece built from your own photos — every project is handled by a professional who works in that field.",
+    "whatWeTranslate": "What we translate",
+    "whatWeWorkWith": "What we work with",
+    "whoRequests": "Who requests it",
+    "whySpecialistsMatter": "Why specialists matter",
+    "learnMore": "Learn more",
+    "showLess": "Show less",
+    "items": {
+      "certified": {
+        "title": "Certified Translation",
+        "description": "Signed and stamped translations of official documents, accepted by immigration authorities, courts, universities, and government agencies.",
+        "documents": [
+          "Birth certificates",
+          "Marriage certificates",
+          "Diplomas and academic records",
+          "Immigration documents"
+        ],
+        "customers": "Immigration applicants, international students, HR teams, and law firms.",
+        "whySpecialists": "Every seal, stamp, and marginal note must be rendered completely and precisely. Our certified translators know the exact format each authority expects, so documents are accepted the first time."
+      },
+      "legal": {
+        "title": "Legal Translation",
+        "description": "Contracts, court documents, and compliance material translated by linguists trained in comparative law and legal drafting.",
+        "documents": [
+          "Contracts and agreements",
+          "Court documents",
+          "Corporate governance records",
+          "Compliance documentation"
+        ],
+        "customers": "Law firms, in-house counsel, notaries, and government bodies.",
+        "whySpecialists": "One imprecise clause can shift liability or void an agreement. Legal translators preserve the exact force of the source text within the target legal system."
+      },
+      "medical": {
+        "title": "Medical Translation",
+        "description": "Clinical and pharmaceutical documentation translated by linguists with life-science backgrounds and checked against standard medical terminology.",
+        "documents": [
+          "Clinical study protocols",
+          "Patient documentation",
+          "Medical reports",
+          "Pharmaceutical dossiers"
+        ],
+        "customers": "Hospitals, clinics, research organizations, and pharmaceutical companies.",
+        "whySpecialists": "Patient safety depends on unambiguous language. Our medical translators work with clinical and regulatory terminology every day, not occasionally."
+      },
+      "technical": {
+        "title": "Technical Translation",
+        "description": "User manuals, safety documentation, and engineering specifications translated by linguists who understand the underlying technology.",
+        "documents": [
+          "User and technical manuals",
+          "Safety documentation",
+          "Engineering specifications",
+          "Operational procedures"
+        ],
+        "customers": "Manufacturers, engineering firms, and mining and energy companies.",
+        "whySpecialists": "A mistranslated tolerance or warning label is a safety risk. Technical translators keep units, terminology, and procedures exact from source to target."
+      },
+      "business": {
+        "title": "Business & Financial Translation",
+        "description": "Annual reports, financial statements, and corporate communications translated with consistent terminology across every filing and campaign.",
+        "documents": [
+          "Annual reports",
+          "Financial statements",
+          "Marketing material",
+          "Corporate communications"
+        ],
+        "customers": "Public companies, banks, and investor-relations and marketing teams.",
+        "whySpecialists": "Disclosure language is regulated and market-sensitive. Specialist translators keep figures, defined terms, and tone consistent across languages."
+      },
+      "localization": {
+        "title": "Website & Software Translation",
+        "description": "Websites, applications, and product documentation adapted for each market, so your product reads as if it was written there.",
+        "documents": [
+          "Websites and landing pages",
+          "Software and app interfaces",
+          "Help centers and product docs",
+          "E-commerce catalogs"
+        ],
+        "customers": "Technology companies, SaaS teams, and online retailers.",
+        "whySpecialists": "Localization is more than words: dates, currencies, layout constraints, and cultural references all change by market. Our localizers translate strings in context, never in isolation."
+      },
+      "transcription": {
+        "title": "Transcription & Subtitling",
+        "description": "Recordings turned into text: a written transcript, subtitles in the language being spoken, or subtitles translated for another audience. Need an interview transcribed or a video subtitled? A specialist handles the whole recording.",
+        "documents": [
+          "Interviews and focus groups",
+          "Lectures, webinars, and online courses",
+          "Meetings, hearings, and depositions",
+          "Videos for YouTube and social media"
+        ],
+        "customers": "Production companies, marketing and training teams, researchers, and law firms.",
+        "whySpecialists": "Transcribing is done by ear. Accents, crosstalk, and background noise decide how long an hour of audio really takes, and subtitles have to be cut into readable lines and timed to the picture — including captions in the language already being spoken, so deaf and hard-of-hearing viewers can follow along."
+      },
+      "production": {
+        "title": "Video Production",
+        "description": "A finished piece built from your own material: photos and clips edited into a video, with music or a voice-over and text on screen. Cut for the screen it will actually be shown on, from a phone to a projector.",
+        "documents": [
+          "Videos built from your photographs",
+          "Edits of clips you already have",
+          "Voice-over and background music",
+          "Titles, captions, and closing cards"
+        ],
+        "customers": "Couples and families, small businesses, marketing teams, and event organizers.",
+        "whySpecialists": "Choosing and ordering the material is most of the work, and the sound is half the piece: music has to be licensed, a voice-over recorded and timed to the pictures. A vertical cut for Instagram and a widescreen one for a projector are edited and exported differently, which is why we ask where it will be shown before anything is made."
+      }
+    }
+  },
+  "industries": {
+    "title": "Specialist knowledge in your industry",
+    "description": "Terminology is where translations succeed or fail. Each project is assigned to a linguist who has worked in the sector, not just studied it.",
+    "items": {
+      "medical": {
+        "name": "Medical",
+        "description": "Clinical accuracy for every audience, from regulators to patients.",
+        "terminology": "Clinical trial, pharmacovigilance, and pharmacopoeia terminology",
+        "documents": [
+          "Clinical studies",
+          "Patient documentation",
+          "Medical reports",
+          "Pharmaceutical documentation"
+        ]
+      },
+      "legal": {
+        "name": "Legal",
+        "description": "Precise renderings that hold up in court and at the negotiating table.",
+        "terminology": "Civil-law and common-law drafting conventions",
+        "documents": [
+          "Contracts",
+          "Court documents",
+          "Certificates",
+          "Compliance documentation"
+        ]
+      },
+      "it": {
+        "name": "Information Technology",
+        "description": "Product language that feels native to developers and end users alike.",
+        "terminology": "UI string, API, and platform terminology",
+        "documents": [
+          "Software and applications",
+          "User interfaces",
+          "APIs and technical documentation",
+          "Product documentation"
+        ]
+      },
+      "mining": {
+        "name": "Mining",
+        "description": "Field-ready documentation for multilingual crews and regulators.",
+        "terminology": "Geology, extraction, and HSE terminology",
+        "documents": [
+          "Safety documentation",
+          "Environmental reports",
+          "Technical manuals",
+          "Operational procedures"
+        ]
+      },
+      "engineering": {
+        "name": "Engineering",
+        "description": "Specifications, drawings, and tender documents.",
+        "terminology": "CAD, tolerancing, and tender terminology"
+      },
+      "manufacturing": {
+        "name": "Manufacturing",
+        "description": "Work instructions, quality manuals, and supplier documents.",
+        "terminology": "Lean, QA, and process terminology"
+      },
+      "government": {
+        "name": "Government",
+        "description": "Public notices, policy papers, and citizen services.",
+        "terminology": "Administrative and policy terminology"
+      },
+      "healthcare": {
+        "name": "Healthcare",
+        "description": "Consent forms, discharge instructions, and staff training.",
+        "terminology": "Clinical and patient-facing terminology"
+      },
+      "finance": {
+        "name": "Finance",
+        "description": "Reports, prospectuses, and banking communications.",
+        "terminology": "IFRS and banking terminology"
+      },
+      "education": {
+        "name": "Education",
+        "description": "Transcripts, course material, and research papers.",
+        "terminology": "Academic grading and credential terminology"
+      },
+      "marketing": {
+        "name": "Marketing",
+        "description": "Campaigns, brochures, and brand voice adaptation.",
+        "terminology": "Transcreation and brand terminology"
+      },
+      "energy": {
+        "name": "Energy",
+        "description": "Grid, oil and gas, and renewable project documentation.",
+        "terminology": "HSE and grid operations terminology"
+      }
+    }
+  },
+  "languages": {
+    "title": "Our language pairs",
+    "description": "We translate in both directions across every combination we offer, and additional languages are available upon request.",
+    "names": {
+      "en": "English",
+      "es": "Spanish",
+      "fr": "French",
+      "de": "German",
+      "it": "Italian",
+      "pt": "Portuguese",
+      "zh": "Chinese"
+    },
+    "join": "and",
+    "pairService": "{pair} translation",
+    "anyCombination": "Any direction, any combination",
+    "preservation": {
+      "meaning": {
+        "title": "Meaning",
+        "text": "Nothing added, nothing lost, nothing assumed."
+      },
+      "tone": {
+        "title": "Tone",
+        "text": "Formal stays formal; persuasive stays persuasive."
+      },
+      "context": {
+        "title": "Context",
+        "text": "Terminology chosen for your field and audience."
+      },
+      "nuance": {
+        "title": "Cultural nuance",
+        "text": "Idioms and references adapted, not transposed."
+      }
+    }
+  },
+  "about": {
+    "title": "Why organizations choose us",
+    "lead": "Every translation is produced by a university-educated, native-speaking specialist and reviewed by a second linguist. Modern translation technology keeps terminology consistent, but a human professional makes every decision.",
+    "confidentiality": "Your documents stay confidential from the moment you upload them, and we will sign an NDA before you share anything sensitive.",
+    "features": {
+      "native": {
+        "title": "Native Translators",
+        "text": "Every text is translated into the linguist’s mother tongue."
+      },
+      "certified": {
+        "title": "Certified Professionals",
+        "text": "University-educated translators with recognized certifications."
+      },
+      "specialists": {
+        "title": "Industry Specialists",
+        "text": "Linguists who know the terminology of your field first-hand."
+      },
+      "fast": {
+        "title": "Fast Delivery",
+        "text": "Standard turnaround from 24 hours, with rush options available."
+      },
+      "confidentiality": {
+        "title": "Confidentiality",
+        "text": "Strict data handling on every project, with NDAs available on request."
+      },
+      "pricing": {
+        "title": "Competitive Pricing",
+        "text": "Clear per-word or per-page rates, quoted in full before we start."
+      },
+      "quality": {
+        "title": "Quality Assurance",
+        "text": "Independent revision of every translation before delivery."
+      },
+      "human": {
+        "title": "Human Translation",
+        "text": "Professional linguists translate; technology only assists them."
+      },
+      "support": {
+        "title": "Personalized Support",
+        "text": "A dedicated project manager for every account, large or small."
+      },
+      "global": {
+        "title": "Global Experience",
+        "text": "Six years serving clients across four continents."
+      }
+    }
+  },
+  "process": {
+    "title": "From first message to delivery in four steps",
+    "description": "A fixed price and a guaranteed date before we start, and a reviewed translation in your original format at the end.",
+    "steps": {
+      "chat": {
+        "title": "Chat with a Translation Expert",
+        "text": "Open the chat assistant, tell us about your project, and upload your files. Everything is handled confidentially."
+      },
+      "quote": {
+        "title": "Receive Your Quote",
+        "text": "Within hours you get a fixed price and a guaranteed delivery date. No obligation."
+      },
+      "translate": {
+        "title": "Professional Translation",
+        "text": "A native-speaking specialist in your industry translates your documents."
+      },
+      "deliver": {
+        "title": "Quality Review & Delivery",
+        "text": "A second linguist reviews every page before we deliver in your original format."
+      }
+    }
+  },
+  "ai": {
+    "title": "Technology in service of the translator",
+    "description": "Every translation is directed, reviewed, and approved by a professional translator. Modern technology helps us keep terminology consistent and shorten turnaround, but no linguistic decision is made without human judgment.",
+    "points": {
+      "speed": {
+        "title": "AI-accelerated turnaround",
+        "text": "Advanced language models prepare context-aware drafts and research terminology in minutes, so your project starts moving immediately."
+      },
+      "consistency": {
+        "title": "Consistency at scale",
+        "text": "AI checks every page against your glossaries and past projects, keeping terminology, tone, and formatting identical across languages."
+      },
+      "human": {
+        "title": "Humans make every decision",
+        "text": "A professional translator directs, reviews, and approves everything the models produce. You get AI speed with certified human quality."
+      }
+    }
+  },
+  "stats": {
+    "ariaLabel": "Company statistics",
+    "items": {
+      "documents": {
+        "value": "1,500+",
+        "label": "Documents translated"
+      },
+      "clients": {
+        "value": "10+",
+        "label": "Corporate clients"
+      },
+      "specialists": {
+        "value": "12+",
+        "label": "Language specialists"
+      },
+      "satisfaction": {
+        "value": "98%",
+        "label": "Customer satisfaction"
+      },
+      "years": {
+        "value": "6+",
+        "label": "Years of experience"
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "description": "Everything about pricing, turnaround, certification, and confidentiality. Still unsure? Ask us directly in the chat.",
+    "items": {
+      "cost": {
+        "question": "How much does a translation cost?",
+        "answer": "Pricing is based on word count, language pair, subject matter, and turnaround. Most documents are quoted per word, with flat per-page rates for certificates. Request a free quote and you will receive a fixed price before any work begins."
+      },
+      "turnaround": {
+        "question": "How fast can you deliver?",
+        "answer": "Standard turnaround is 24 to 48 hours for documents up to ten pages. Larger projects receive a delivery schedule with the quote, and rush delivery is available when you are on a deadline."
+      },
+      "certified": {
+        "question": "What is a certified translation, and when do I need one?",
+        "answer": "A certified translation includes a signed statement confirming that the translation is complete and accurate. Immigration offices, courts, universities, and licensing bodies usually require it for official documents such as birth certificates, diplomas, and court records."
+      },
+      "official": {
+        "question": "Is your certified translation officially valid?",
+        "answer": "Our certified translations include a signed and stamped statement confirming they are complete and faithful to the original, and they are accepted by immigration authorities, universities, and government agencies in many countries. If your procedure specifically requires a translator registered with a professional association in a given country, let us know in the chat and we will confirm whether we can cover it."
+      },
+      "confidentiality": {
+        "question": "How do you keep my documents confidential?",
+        "answer": "Files are transferred over encrypted connections and access is limited to the linguists assigned to your project, all of whom are bound by confidentiality agreements. We are also happy to sign your NDA before you share anything."
+      },
+      "formats": {
+        "question": "Which file formats do you accept?",
+        "answer": "We accept PDF, Word (.doc and .docx), OpenDocument (.odt), plain text (.txt), and RTF files, as well as audio and video (MP3, WAV, M4A, MP4, MOV, WEBM) for transcription and subtitling. Wherever possible we deliver the translation in the same format and layout as your original."
+      },
+      "payment": {
+        "question": "Which payment methods do you accept?",
+        "answer": "We accept major credit cards and bank transfer, and business accounts can be invoiced monthly with net-30 payment terms. As an additional option, we also accept cryptocurrency (direct wallet transfer or Binance Pay)."
+      },
+      "revisions": {
+        "question": "What if I need changes after delivery?",
+        "answer": "Every project includes a free revision period of 30 days. If any wording needs adjustment, your project manager coordinates the change with the original translator, usually within one business day."
+      },
+      "quality": {
+        "question": "How do you assure quality?",
+        "answer": "Every translation passes a two-step process: a specialist translator, then an independent revision by a second linguist. Terminology is checked against industry glossaries and any reference material you provide."
+      },
+      "rush": {
+        "question": "Can you handle urgent requests?",
+        "answer": "Yes. Rush service can deliver certified documents in as little as 12 hours, depending on length and language pair. Mention your deadline in the quote request and we will confirm what is possible right away."
+      },
+      "business": {
+        "question": "Do you offer business accounts?",
+        "answer": "Yes. Business accounts include a dedicated project manager, agreed rates, monthly invoicing, and a terminology database that keeps wording consistent across all your projects."
+      },
+      "languages": {
+        "question": "Which languages do you support?",
+        "answer": "We currently translate between Spanish, English, French, German, Italian, Portuguese, and Chinese in every combination. Additional languages are available on request; tell us what you need and we will confirm availability and pricing."
+      },
+      "quote": {
+        "question": "How do I get a quote?",
+        "answer": "Open the chat assistant in the corner of the page. Share your language pair, document type, page or word count, and deadline, and you will receive a fixed quote, usually within one business hour."
+      }
+    }
+  },
+  "contact": {
+    "title": "Get in touch",
+    "description": "The chat assistant is the fastest way to reach us: share your project details and we prepare your quotation while you browse.",
+    "cardTitle": "Ready when you are, in English, Spanish, French, or German",
+    "cardText": "Tell us your language pair, document type, and deadline, and receive a fixed quote, usually within one business hour.",
+    "cta": "Get your quote from a specialist",
+    "ctaNote": "Quotations are free of charge and carry no obligation.",
+    "emailLine": "Prefer email? Write to us at <link>{email}</link>."
+  },
+  "careers": {
+    "metaTitle": "Work with us — translator applications | {companyName}",
+    "metaDescription": "We are always looking for professional translators. Send your CV to jobs@translations.bluelab.ar with your language pairs, specialisms and rates.",
+    "title": "Work with us",
+    "lead": "We are a small team of professional translators, and every project we take on is assigned to a specialist in that field. That only works if we keep meeting good linguists — so if you translate professionally, we would like to hear from you.",
+    "profile": {
+      "title": "Who we work with",
+      "items": [
+        "Native speakers of the target language, translating into their mother tongue only.",
+        "A university degree in translation, or demonstrable specialisation in your field.",
+        "At least three years of professional experience, or a recognised accreditation.",
+        "A real specialism: legal, medical, technical, financial, certified or software and web.",
+        "Comfortable with CAT tools and with keeping terminology consistent across a glossary.",
+        "Willing to sign a confidentiality agreement before receiving any material."
+      ]
+    },
+    "offer": {
+      "title": "What we offer",
+      "items": [
+        "Work in your own specialism, not whatever happens to come in.",
+        "Rates agreed in writing before you start, and paid on the agreed date.",
+        "A second linguist reviews every translation, so you are never the last line of defence alone.",
+        "A named project manager you can actually reach — no bidding platforms, no auctions.",
+        "Remote and flexible: we care about the deadline you accepted, not the hours you keep."
+      ]
+    },
+    "apply": {
+      "title": "How to apply",
+      "intro": "Send your CV to <link>{email}</link>. To let us place you properly, please include:",
+      "items": [
+        "Your language pairs, and the direction you translate in.",
+        "Your fields of specialisation, and the document types you handle most.",
+        "Years of experience, plus any certifications or professional memberships.",
+        "Your rates, per word or per hour, and your usual daily output.",
+        "The CAT tools you work with.",
+        "Your typical availability and time zone."
+      ],
+      "note": "We read every application and reply to the ones we can place. If your combination is not one we are currently commissioning, we keep your details on file and come back to you when it is."
+    }
+  },
+  "landing": {
+    "backToServices": "See all translation services",
+    "certified": {
+      "metaTitle": "Certified Translation of Official Documents | {companyName}",
+      "metaDescription": "Certified, official translation of passports, birth certificates, diplomas, and university degrees. Signed and stamped, delivered from 24 hours. Fixed quote via chat.",
+      "headline": "Certified translation of official documents",
+      "intro": "We translate and certify passports, birth certificates, marriage certificates, diplomas, university degrees, and criminal record checks. Every certified translation is delivered signed and stamped, ready to submit to immigration authorities, universities, and government agencies."
+    },
+    "legal": {
+      "metaTitle": "Professional Legal Translation | {companyName}",
+      "metaDescription": "Legal translation of contracts, powers of attorney, court documents, and compliance material by translators trained in law. Full confidentiality.",
+      "headline": "Professional legal translation",
+      "intro": "Contracts, powers of attorney, court filings, and rulings translated by linguists trained in comparative law. Whether you need to translate a contract or submit a document in court, a legal translator handles your project end to end, in full confidentiality."
+    },
+    "technical": {
+      "metaTitle": "Specialized Technical Translation | {companyName}",
+      "metaDescription": "Technical translation of manuals, engineering specifications, and safety documentation by translators who understand the technology. Fixed quote via chat.",
+      "headline": "Specialized technical translation",
+      "intro": "Technical manuals, engineering specifications, safety documentation, and operational procedures, translated by specialists who understand the underlying technology and keep units and terminology exact."
+    },
+    "medical": {
+      "metaTitle": "Professional Medical Translation | {companyName}",
+      "metaDescription": "Medical translation of reports, clinical study protocols, and pharmaceutical documentation by linguists with life-science backgrounds.",
+      "headline": "Professional medical translation",
+      "intro": "Medical reports, clinical study protocols, patient documentation, and pharmaceutical dossiers, translated by linguists with life-science backgrounds and checked against standard medical terminology."
+    }
+  },
+  "footer": {
+    "tagline": "Professional human translation between Spanish, English, French, German, Italian, Portuguese, and Chinese for businesses and individuals. Certified quality, confidential handling, fast turnaround.",
+    "location": "Based in Argentina, Chile and Peru, working with clients worldwide.",
+    "navigation": "Navigation",
+    "services": "Services",
+    "industries": "Industries",
+    "languages": "Languages",
+    "careers": "Work with us",
+    "followUs": "Follow us",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "legal": {
+    "backToHome": "Back to home",
+    "contactTitle": "Contact",
+    "privacy": {
+      "metaTitle": "Privacy Policy | {companyName}",
+      "metaDescription": "How {companyName} collects, uses, and protects your personal information and documents.",
+      "title": "Privacy Policy",
+      "sections": {
+        "collect": {
+          "title": "What we collect",
+          "body": "When you request a quote or use our chat assistant, we collect the information you choose to share: your name, contact details, and the documents you upload for translation. We also store the technical session data needed to keep your conversation connected."
+        },
+        "use": {
+          "title": "How we use your information",
+          "body": "Your information is used only to prepare quotations, deliver translation services, and communicate with you about your projects. We do not sell personal data, and we do not use your documents for any purpose other than the work you request."
+        },
+        "documents": {
+          "title": "Your documents",
+          "body": "Uploaded documents are transferred over encrypted connections and are accessible only to the staff and linguists assigned to your project, all of whom are bound by confidentiality agreements. Documents are deleted when the associated session is cleaned up or on request. We are happy to sign a non-disclosure agreement before you share sensitive material."
+        },
+        "cookies": {
+          "title": "Cookies",
+          "body": "We use a single session cookie that keeps your quote conversation connected. It contains no tracking identifiers and expires within 24 hours."
+        },
+        "rights": {
+          "title": "Your rights",
+          "body": "You may request a copy of the personal information we hold about you, ask us to correct it, or ask us to delete it, subject to any legal retention requirements that apply to completed engagements."
+        }
+      },
+      "contactBody": "Questions about this policy can be sent to <link>{email}</link>."
+    },
+    "terms": {
+      "metaTitle": "Terms of Service | {companyName}",
+      "metaDescription": "The terms that govern translation services provided by {companyName}.",
+      "title": "Terms of Service",
+      "sections": {
+        "quotations": {
+          "title": "Quotations",
+          "body": "Every project begins with a written quotation stating a fixed price and delivery date. Quotations are free, carry no obligation, and remain valid for 30 days unless stated otherwise. Work begins only after you accept the quotation."
+        },
+        "delivery": {
+          "title": "Delivery",
+          "body": "We deliver translations by the date confirmed in the quotation, in the agreed format. If an unforeseen delay arises, we will notify you as soon as possible and agree on a revised date before continuing."
+        },
+        "quality": {
+          "title": "Quality and revisions",
+          "body": "Every translation is produced by a professional translator and reviewed by a second linguist. If any part of a delivered translation needs adjustment, revisions are included free of charge for 30 days after delivery."
+        },
+        "confidentiality": {
+          "title": "Confidentiality",
+          "body": "All material you share with us is treated as confidential, whether or not a separate non-disclosure agreement is in place. Access is limited to the team assigned to your project."
+        },
+        "payment": {
+          "title": "Payment",
+          "body": "Individual clients pay on delivery unless agreed otherwise. Business accounts are invoiced monthly with net-30 terms. Accepted methods include major credit cards, bank transfer, and cryptocurrency (direct wallet transfer or Binance Pay)."
+        },
+        "liability": {
+          "title": "Liability",
+          "body": "Our liability for any claim arising from a translation is limited to the fees paid for the affected project. We are not responsible for decisions made by third parties, such as government agencies, based on translated documents."
+        }
+      },
+      "contactBody": "Questions about these terms can be sent to <link>{email}</link>."
+    }
+  },
+  "assistant": {
+    "dialogLabel": "Quote assistant",
+    "open": "Get your quote from a specialist",
+    "minimize": "Minimize the quote assistant",
+    "title": "Quote Assistant",
+    "subtitle": "{companyName}",
+    "minimizeChat": "Minimize chat",
+    "connecting": "Connecting...",
+    "uploading": "Uploading {fileName}… {percent}%",
+    "ended": "This conversation has ended. Refresh the page to start a new one.",
+    "closedByOperator": "Our team has closed this conversation. Thank you for contacting us! Refresh the page to start a new one.",
+    "status": {
+      "connecting": "Connecting...",
+      "connected": "Connected",
+      "reconnecting": "Reconnecting...",
+      "disconnected": "Disconnected"
+    }
+  },
+  "chat": {
+    "conversation": "Conversation",
+    "you": "You",
+    "specialist": "Specialist",
+    "typing": "The specialist is typing...",
+    "newMessages": "{count, plural, =1 {1 new message} other {# new messages}}",
+    "messageLabel": "Message",
+    "placeholder": "Type your message...",
+    "sendMessage": "Send message",
+    "attach": "Attach a document",
+    "dismissError": "Dismiss error"
+  },
+  "errors": {
+    "unsupported-type": "This file type is not supported. Please share a document (PDF, Word, ODT, TXT, RTF) or a recording (MP3, WAV, M4A, MP4, MOV, WEBM).",
+    "too-large": "This file is too large. The maximum size is {maxSizeMb} MB.",
+    "empty": "This file appears to be empty.",
+    "failed": "Unable to share your file. Please try again.",
+    "network": "Unable to share your file. Please check your connection."
+  }
+}

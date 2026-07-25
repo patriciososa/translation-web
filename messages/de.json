@@ -1,0 +1,627 @@
+{
+  "metadata": {
+    "title": "{companyName} | Beglaubigte Übersetzungen in 7 Sprachen",
+    "description": "Professionelle Humanübersetzung zwischen Spanisch, Englisch, Französisch, Deutsch, Italienisch, Portugiesisch und Chinesisch. Beglaubigte, juristische, medizinische und technische Übersetzungen für Unternehmen und Privatpersonen – mit schneller Lieferung und absoluter Vertraulichkeit."
+  },
+  "common": {
+    "skipToContent": "Zum Inhalt springen",
+    "copyright": "© {year} {companyName}. Alle Rechte vorbehalten."
+  },
+  "header": {
+    "nav": {
+      "home": "Start",
+      "services": "Leistungen",
+      "industries": "Branchen",
+      "languages": "Sprachen",
+      "about": "Über uns",
+      "process": "So arbeiten wir",
+      "faq": "FAQ",
+      "contact": "Kontakt"
+    },
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen",
+    "languageSwitcher": "Seitensprache"
+  },
+  "hero": {
+    "headline": "Professionelle Übersetzungen, denen Sie vertrauen können",
+    "subtext": "Präzise Humanübersetzung in Spanisch, Englisch, Französisch, Deutsch, Italienisch, Portugiesisch und Chinesisch für Unternehmen und Privatpersonen. Schnelle Lieferung, zertifizierte Qualität und vollständige Vertraulichkeit.",
+    "showcase": {
+      "sourceLabel": "Englischer Ausgangstext",
+      "sourceText": "This Agreement shall remain in effect for a period of twenty-four (24) months from the date of signature by both parties.",
+      "targetLabel": "Übersetzung ins Deutsche",
+      "targetText": "Dieser Vertrag bleibt für einen Zeitraum von vierundzwanzig (24) Monaten ab dem Datum der Unterzeichnung durch beide Parteien in Kraft.",
+      "badge": "Beglaubigt, von Menschen übersetzt, lektoriert"
+    }
+  },
+  "services": {
+    "title": "Übersetzung, Transkription und Videoproduktion",
+    "description": "Von der einzelnen Geburtsurkunde über den vollständigen Geschäftsbericht bis zum untertitelten Video oder einem Film aus Ihren eigenen Fotos: Jedes Projekt wird von einer Fachkraft bearbeitet, die in diesem Bereich arbeitet.",
+    "whatWeTranslate": "Was wir übersetzen",
+    "whatWeWorkWith": "Womit wir arbeiten",
+    "whoRequests": "Wer es beauftragt",
+    "whySpecialistsMatter": "Warum Fachübersetzer entscheidend sind",
+    "learnMore": "Mehr erfahren",
+    "showLess": "Weniger anzeigen",
+    "items": {
+      "certified": {
+        "title": "Beglaubigte Übersetzung",
+        "description": "Unterzeichnete und gestempelte Übersetzungen amtlicher Dokumente, anerkannt von Einwanderungsbehörden, Gerichten, Universitäten und Behörden.",
+        "documents": [
+          "Geburtsurkunden",
+          "Heiratsurkunden",
+          "Diplome und Zeugnisse",
+          "Einwanderungsdokumente"
+        ],
+        "customers": "Antragsteller im Einwanderungsverfahren, internationale Studierende, HR-Teams und Anwaltskanzleien.",
+        "whySpecialists": "Jedes Siegel, jeder Stempel und jede Randnotiz muss vollständig und präzise wiedergegeben werden. Unsere vereidigten Übersetzer kennen das genaue Format, das jede Behörde erwartet, damit Ihre Dokumente auf Anhieb akzeptiert werden."
+      },
+      "legal": {
+        "title": "Juristische Übersetzung",
+        "description": "Verträge, Gerichtsdokumente und Compliance-Unterlagen, übersetzt von Sprachexperten mit Ausbildung in Rechtsvergleichung und juristischer Textgestaltung.",
+        "documents": [
+          "Verträge und Vereinbarungen",
+          "Gerichtsdokumente",
+          "Unterlagen der Unternehmensführung",
+          "Compliance-Dokumentation"
+        ],
+        "customers": "Anwaltskanzleien, Unternehmensjuristen, Notariate und Behörden.",
+        "whySpecialists": "Eine ungenaue Klausel kann die Haftung verschieben oder eine Vereinbarung unwirksam machen. Juristische Übersetzer bewahren die exakte Wirkung des Ausgangstextes im Rechtssystem der Zielsprache."
+      },
+      "medical": {
+        "title": "Medizinische Übersetzung",
+        "description": "Klinische und pharmazeutische Dokumentation, übersetzt von Sprachexperten mit naturwissenschaftlichem Hintergrund und geprüft anhand medizinischer Standardterminologie.",
+        "documents": [
+          "Protokolle klinischer Studien",
+          "Patientenunterlagen",
+          "Medizinische Berichte",
+          "Pharmazeutische Dossiers"
+        ],
+        "customers": "Krankenhäuser, Kliniken, Forschungseinrichtungen und Pharmaunternehmen.",
+        "whySpecialists": "Die Patientensicherheit hängt von eindeutiger Sprache ab. Unsere medizinischen Übersetzer arbeiten täglich mit klinischer und regulatorischer Terminologie, nicht nur gelegentlich."
+      },
+      "technical": {
+        "title": "Technische Übersetzung",
+        "description": "Benutzerhandbücher, Sicherheitsdokumentation und technische Spezifikationen, übersetzt von Sprachexperten, die die zugrunde liegende Technik verstehen.",
+        "documents": [
+          "Benutzer- und technische Handbücher",
+          "Sicherheitsdokumentation",
+          "Technische Spezifikationen",
+          "Betriebsanweisungen"
+        ],
+        "customers": "Hersteller, Ingenieurbüros sowie Bergbau- und Energieunternehmen.",
+        "whySpecialists": "Eine falsch übersetzte Toleranz oder ein fehlerhafter Warnhinweis ist ein Sicherheitsrisiko. Technische Übersetzer halten Einheiten, Terminologie und Verfahren vom Ausgangs- bis zum Zieltext exakt ein."
+      },
+      "business": {
+        "title": "Wirtschafts- und Finanzübersetzung",
+        "description": "Geschäftsberichte, Jahresabschlüsse und Unternehmenskommunikation, übersetzt mit einheitlicher Terminologie in jeder Veröffentlichung und Kampagne.",
+        "documents": [
+          "Geschäftsberichte",
+          "Jahresabschlüsse",
+          "Marketingmaterial",
+          "Unternehmenskommunikation"
+        ],
+        "customers": "Börsennotierte Unternehmen, Banken sowie Investor-Relations- und Marketingteams.",
+        "whySpecialists": "Die Sprache der Finanzberichterstattung ist reguliert und marktsensibel. Fachübersetzer halten Zahlen, definierte Begriffe und Tonalität über alle Sprachen hinweg konsistent."
+      },
+      "localization": {
+        "title": "Website- und Software-Übersetzung",
+        "description": "Websites, Anwendungen und Produktdokumentation, angepasst an jeden Markt – damit Ihr Produkt klingt, als wäre es dort geschrieben worden.",
+        "documents": [
+          "Websites und Landingpages",
+          "Software- und App-Oberflächen",
+          "Hilfezentren und Produktdokumentation",
+          "E-Commerce-Kataloge"
+        ],
+        "customers": "Technologieunternehmen, SaaS-Teams und Online-Händler.",
+        "whySpecialists": "Lokalisierung ist mehr als Wörter: Datumsformate, Währungen, Layout-Vorgaben und kulturelle Bezüge ändern sich je nach Markt. Unsere Lokalisierer übersetzen jeden Text im Kontext, nie isoliert."
+      },
+      "transcription": {
+        "title": "Transkription und Untertitelung",
+        "description": "Aufnahmen werden zu Text: ein schriftliches Transkript, Untertitel in der gesprochenen Sprache oder übersetzte Untertitel für ein anderes Publikum. Sie möchten ein Interview transkribieren oder ein Video untertiteln lassen? Eine Fachkraft übernimmt die gesamte Aufnahme.",
+        "documents": [
+          "Interviews und Fokusgruppen",
+          "Vorlesungen, Webinare und Online-Kurse",
+          "Besprechungen, Anhörungen und Vernehmungen",
+          "Videos für YouTube und soziale Netzwerke"
+        ],
+        "customers": "Produktionsfirmen, Marketing- und Schulungsteams, Forschende und Anwaltskanzleien.",
+        "whySpecialists": "Transkribiert wird nach Gehör. Akzente, sich überschneidende Stimmen und Hintergrundgeräusche entscheiden, wie lange eine Stunde Audio wirklich dauert, und Untertitel müssen in lesbare Zeilen umbrochen und bildgenau eingepasst werden – auch Untertitel in der ohnehin gesprochenen Sprache, damit gehörlose und schwerhörige Zuschauer folgen können."
+      },
+      "production": {
+        "title": "Videoproduktion",
+        "description": "Ein fertiges Stück aus Ihrem eigenen Material: Fotos und Clips zu einem Video geschnitten, mit Musik oder einer Sprachaufnahme und Text im Bild. Passend für den Bildschirm, auf dem es tatsächlich laufen soll – vom Handy bis zum Beamer.",
+        "documents": [
+          "Videos aus Ihren Fotos",
+          "Schnitt bereits vorhandener Clips",
+          "Sprachaufnahme und Hintergrundmusik",
+          "Titel, Einblendungen und Abspann"
+        ],
+        "customers": "Paare und Familien, kleine Unternehmen, Marketingteams und Eventveranstalter.",
+        "whySpecialists": "Das Material auszuwählen und zu ordnen ist der größte Teil der Arbeit, und der Ton macht die Hälfte des Stücks aus: Musik muss lizenziert, eine Sprachaufnahme eingesprochen und bildgenau eingepasst werden. Ein vertikaler Schnitt für Instagram und ein Breitbildschnitt für den Beamer werden unterschiedlich geschnitten und exportiert – deshalb fragen wir vorher, wo das Video laufen soll."
+      }
+    }
+  },
+  "industries": {
+    "title": "Fachwissen in Ihrer Branche",
+    "description": "An der Terminologie entscheidet sich, ob eine Übersetzung gelingt. Jedes Projekt wird einem Sprachexperten zugewiesen, der in der Branche gearbeitet hat – nicht nur über sie gelesen.",
+    "items": {
+      "medical": {
+        "name": "Medizin",
+        "description": "Klinische Präzision für jedes Publikum, von Behörden bis zu Patienten.",
+        "terminology": "Terminologie für klinische Studien, Pharmakovigilanz und Arzneibücher",
+        "documents": [
+          "Klinische Studien",
+          "Patientenunterlagen",
+          "Medizinische Berichte",
+          "Pharmazeutische Dokumentation"
+        ]
+      },
+      "legal": {
+        "name": "Recht",
+        "description": "Präzise Übersetzungen, die vor Gericht und am Verhandlungstisch bestehen.",
+        "terminology": "Formulierungskonventionen des kontinentalen und angelsächsischen Rechts",
+        "documents": [
+          "Verträge",
+          "Gerichtsdokumente",
+          "Urkunden",
+          "Compliance-Dokumentation"
+        ]
+      },
+      "it": {
+        "name": "Informationstechnologie",
+        "description": "Produktsprache, die sich für Entwickler und Endnutzer gleichermaßen natürlich anfühlt.",
+        "terminology": "Terminologie für UI-Texte, APIs und Plattformen",
+        "documents": [
+          "Software und Anwendungen",
+          "Benutzeroberflächen",
+          "APIs und technische Dokumentation",
+          "Produktdokumentation"
+        ]
+      },
+      "mining": {
+        "name": "Bergbau",
+        "description": "Einsatzbereite Dokumentation für mehrsprachige Teams und Aufsichtsbehörden.",
+        "terminology": "Terminologie für Geologie, Rohstoffgewinnung und HSE",
+        "documents": [
+          "Sicherheitsdokumentation",
+          "Umweltberichte",
+          "Technische Handbücher",
+          "Betriebsanweisungen"
+        ]
+      },
+      "engineering": {
+        "name": "Ingenieurwesen",
+        "description": "Spezifikationen, Zeichnungen und Ausschreibungsunterlagen.",
+        "terminology": "Terminologie für CAD, Tolerierung und Ausschreibungen"
+      },
+      "manufacturing": {
+        "name": "Fertigung",
+        "description": "Arbeitsanweisungen, Qualitätshandbücher und Lieferantendokumente.",
+        "terminology": "Terminologie für Lean, QS und Prozesse"
+      },
+      "government": {
+        "name": "Öffentlicher Sektor",
+        "description": "Amtliche Bekanntmachungen, Grundsatzpapiere und Bürgerservices.",
+        "terminology": "Verwaltungs- und Politikterminologie"
+      },
+      "healthcare": {
+        "name": "Gesundheitswesen",
+        "description": "Einwilligungserklärungen, Entlassungsanweisungen und Personalschulungen.",
+        "terminology": "Klinische und patientennahe Terminologie"
+      },
+      "finance": {
+        "name": "Finanzen",
+        "description": "Berichte, Prospekte und Bankenkommunikation.",
+        "terminology": "IFRS- und Bankenterminologie"
+      },
+      "education": {
+        "name": "Bildung",
+        "description": "Zeugnisse, Kursmaterial und Forschungsarbeiten.",
+        "terminology": "Terminologie für Notensysteme und Abschlüsse"
+      },
+      "marketing": {
+        "name": "Marketing",
+        "description": "Kampagnen, Broschüren und Anpassung der Markensprache.",
+        "terminology": "Transkreations- und Markenterminologie"
+      },
+      "energy": {
+        "name": "Energie",
+        "description": "Dokumentation für Netze, Öl und Gas sowie erneuerbare Projekte.",
+        "terminology": "Terminologie für HSE und Netzbetrieb"
+      }
+    }
+  },
+  "languages": {
+    "title": "Unsere Sprachpaare",
+    "description": "Wir übersetzen in beide Richtungen in jeder angebotenen Kombination; weitere Sprachen sind auf Anfrage verfügbar.",
+    "names": {
+      "en": "Englisch",
+      "es": "Spanisch",
+      "fr": "Französisch",
+      "de": "Deutsch",
+      "it": "Italienisch",
+      "pt": "Portugiesisch",
+      "zh": "Chinesisch"
+    },
+    "join": "und",
+    "pairService": "Übersetzung {pair}",
+    "anyCombination": "Beide Richtungen, jede Kombination",
+    "preservation": {
+      "meaning": {
+        "title": "Bedeutung",
+        "text": "Nichts hinzugefügt, nichts verloren, nichts unterstellt."
+      },
+      "tone": {
+        "title": "Tonalität",
+        "text": "Formell bleibt formell, überzeugend bleibt überzeugend."
+      },
+      "context": {
+        "title": "Kontext",
+        "text": "Terminologie, gewählt für Ihr Fachgebiet und Ihr Publikum."
+      },
+      "nuance": {
+        "title": "Kulturelle Nuancen",
+        "text": "Redewendungen und Anspielungen werden angepasst, nicht wörtlich übertragen."
+      }
+    }
+  },
+  "about": {
+    "title": "Warum Organisationen uns wählen",
+    "lead": "Jede Übersetzung wird von einem akademisch ausgebildeten muttersprachlichen Fachübersetzer angefertigt und von einem zweiten Sprachexperten geprüft. Moderne Übersetzungstechnologie hält die Terminologie konsistent, doch jede Entscheidung trifft ein menschlicher Profi.",
+    "confidentiality": "Ihre Dokumente bleiben ab dem Moment des Hochladens vertraulich, und wir unterzeichnen gerne eine Vertraulichkeitsvereinbarung, bevor Sie sensibles Material teilen.",
+    "features": {
+      "native": {
+        "title": "Muttersprachliche Übersetzer",
+        "text": "Jeder Text wird in die Muttersprache des Übersetzers übertragen."
+      },
+      "certified": {
+        "title": "Zertifizierte Profis",
+        "text": "Akademisch ausgebildete Übersetzer mit anerkannten Zertifizierungen."
+      },
+      "specialists": {
+        "title": "Branchenspezialisten",
+        "text": "Sprachexperten, die die Terminologie Ihres Fachgebiets aus erster Hand kennen."
+      },
+      "fast": {
+        "title": "Schnelle Lieferung",
+        "text": "Standardlieferung ab 24 Stunden, Expressoptionen verfügbar."
+      },
+      "confidentiality": {
+        "title": "Vertraulichkeit",
+        "text": "Strenger Umgang mit Daten in jedem Projekt, Vertraulichkeitsvereinbarungen auf Anfrage."
+      },
+      "pricing": {
+        "title": "Faire Preise",
+        "text": "Klare Preise pro Wort oder Seite, vollständig angeboten, bevor wir beginnen."
+      },
+      "quality": {
+        "title": "Qualitätssicherung",
+        "text": "Unabhängige Revision jeder Übersetzung vor der Lieferung."
+      },
+      "human": {
+        "title": "Humanübersetzung",
+        "text": "Professionelle Sprachexperten übersetzen; Technologie unterstützt sie nur."
+      },
+      "support": {
+        "title": "Persönliche Betreuung",
+        "text": "Ein fester Projektmanager für jeden Kunden, ob groß oder klein."
+      },
+      "global": {
+        "title": "Internationale Erfahrung",
+        "text": "Sechs Jahre im Einsatz für Kunden auf vier Kontinenten."
+      }
+    }
+  },
+  "process": {
+    "title": "Von der ersten Nachricht bis zur Lieferung in vier Schritten",
+    "description": "Ein Festpreis und ein garantierter Termin, bevor wir beginnen – und am Ende eine geprüfte Übersetzung in Ihrem Originalformat.",
+    "steps": {
+      "chat": {
+        "title": "Mit einem Übersetzungsexperten chatten",
+        "text": "Öffnen Sie den Chat-Assistenten, beschreiben Sie Ihr Projekt und laden Sie Ihre Dateien hoch. Alles wird vertraulich behandelt."
+      },
+      "quote": {
+        "title": "Ihr Angebot erhalten",
+        "text": "Innerhalb weniger Stunden erhalten Sie einen Festpreis und einen garantierten Liefertermin. Unverbindlich."
+      },
+      "translate": {
+        "title": "Professionelle Übersetzung",
+        "text": "Ein muttersprachlicher Fachübersetzer aus Ihrer Branche übersetzt Ihre Dokumente."
+      },
+      "deliver": {
+        "title": "Qualitätsprüfung und Lieferung",
+        "text": "Ein zweiter Sprachexperte prüft jede Seite, bevor wir in Ihrem Originalformat liefern."
+      }
+    }
+  },
+  "ai": {
+    "title": "Technologie im Dienst des Übersetzers",
+    "description": "Jede Übersetzung wird von einem professionellen Übersetzer gesteuert, geprüft und freigegeben. Moderne Technologie hilft uns, die Terminologie konsistent zu halten und Lieferzeiten zu verkürzen, doch keine sprachliche Entscheidung fällt ohne menschliches Urteil.",
+    "points": {
+      "speed": {
+        "title": "KI-beschleunigte Lieferung",
+        "text": "Fortschrittliche Sprachmodelle erstellen kontextbezogene Entwürfe und recherchieren Terminologie in Minuten, sodass Ihr Projekt sofort in Bewegung kommt."
+      },
+      "consistency": {
+        "title": "Konsistenz in jedem Umfang",
+        "text": "KI prüft jede Seite anhand Ihrer Glossare und früheren Projekte und hält Terminologie, Tonalität und Formatierung über alle Sprachen hinweg identisch."
+      },
+      "human": {
+        "title": "Menschen treffen jede Entscheidung",
+        "text": "Ein professioneller Übersetzer steuert, prüft und genehmigt alles, was die Modelle erzeugen. Sie erhalten KI-Geschwindigkeit mit zertifizierter menschlicher Qualität."
+      }
+    }
+  },
+  "stats": {
+    "ariaLabel": "Unternehmenskennzahlen",
+    "items": {
+      "documents": {
+        "value": "1.500+",
+        "label": "Übersetzte Dokumente"
+      },
+      "clients": {
+        "value": "10+",
+        "label": "Firmenkunden"
+      },
+      "specialists": {
+        "value": "12+",
+        "label": "Sprachspezialisten"
+      },
+      "satisfaction": {
+        "value": "98 %",
+        "label": "Kundenzufriedenheit"
+      },
+      "years": {
+        "value": "6+",
+        "label": "Jahre Erfahrung"
+      }
+    }
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "description": "Alles zu Preisen, Lieferzeiten, Beglaubigung und Vertraulichkeit. Noch Fragen? Stellen Sie sie uns direkt im Chat.",
+    "items": {
+      "cost": {
+        "question": "Was kostet eine Übersetzung?",
+        "answer": "Der Preis richtet sich nach Wortzahl, Sprachpaar, Fachgebiet und Lieferzeit. Die meisten Dokumente werden pro Wort berechnet, Urkunden zu Pauschalpreisen pro Seite. Fordern Sie ein kostenloses Angebot an – Sie erhalten einen Festpreis, bevor die Arbeit beginnt."
+      },
+      "turnaround": {
+        "question": "Wie schnell können Sie liefern?",
+        "answer": "Die Standardlieferzeit beträgt 24 bis 48 Stunden für Dokumente bis zehn Seiten. Größere Projekte erhalten mit dem Angebot einen Lieferplan, und bei knappen Fristen ist Expresslieferung möglich."
+      },
+      "certified": {
+        "question": "Was ist eine beglaubigte Übersetzung, und wann brauche ich sie?",
+        "answer": "Eine beglaubigte Übersetzung enthält eine unterzeichnete Erklärung, die bestätigt, dass die Übersetzung vollständig und richtig ist. Einwanderungsbehörden, Gerichte, Universitäten und Zulassungsstellen verlangen sie in der Regel für amtliche Dokumente wie Geburtsurkunden, Diplome und Gerichtsakten."
+      },
+      "official": {
+        "question": "Ist Ihre beglaubigte Übersetzung amtlich gültig?",
+        "answer": "Unsere beglaubigten Übersetzungen enthalten eine unterzeichnete und gestempelte Erklärung, die bestätigt, dass sie vollständig und originalgetreu sind, und werden von Einwanderungsbehörden, Universitäten und Behörden in vielen Ländern anerkannt. Falls Ihr Verfahren ausdrücklich einen bei einer Berufskammer eines bestimmten Landes registrierten Übersetzer verlangt, teilen Sie uns das im Chat mit, und wir bestätigen Ihnen, ob wir das abdecken können."
+      },
+      "confidentiality": {
+        "question": "Wie schützen Sie die Vertraulichkeit meiner Dokumente?",
+        "answer": "Dateien werden über verschlüsselte Verbindungen übertragen, und der Zugriff ist auf die Ihrem Projekt zugewiesenen Sprachexperten beschränkt, die alle an Vertraulichkeitsvereinbarungen gebunden sind. Gerne unterzeichnen wir auch Ihre Vertraulichkeitsvereinbarung, bevor Sie etwas teilen."
+      },
+      "formats": {
+        "question": "Welche Dateiformate akzeptieren Sie?",
+        "answer": "Wir akzeptieren PDF, Word (.doc und .docx), OpenDocument (.odt), reinen Text (.txt) und RTF-Dateien sowie Audio und Video (MP3, WAV, M4A, MP4, MOV, WEBM) für Transkription und Untertitelung. Wo immer möglich liefern wir die Übersetzung im selben Format und Layout wie Ihr Original."
+      },
+      "payment": {
+        "question": "Welche Zahlungsmethoden akzeptieren Sie?",
+        "answer": "Wir akzeptieren gängige Kreditkarten und Banküberweisung; Geschäftskunden können monatlich mit einem Zahlungsziel von 30 Tagen abgerechnet werden. Als zusätzliche Option akzeptieren wir auch Kryptowährungen (direkte Wallet-Überweisung oder Binance Pay)."
+      },
+      "revisions": {
+        "question": "Was ist, wenn ich nach der Lieferung Änderungen benötige?",
+        "answer": "Jedes Projekt umfasst einen kostenlosen Korrekturzeitraum von 30 Tagen. Falls eine Formulierung angepasst werden muss, koordiniert Ihr Projektmanager die Änderung mit dem ursprünglichen Übersetzer, in der Regel innerhalb eines Werktags."
+      },
+      "quality": {
+        "question": "Wie sichern Sie die Qualität?",
+        "answer": "Jede Übersetzung durchläuft einen zweistufigen Prozess: einen Fachübersetzer und anschließend eine unabhängige Revision durch einen zweiten Sprachexperten. Die Terminologie wird anhand von Branchenglossaren und Ihrem Referenzmaterial geprüft."
+      },
+      "rush": {
+        "question": "Können Sie dringende Aufträge übernehmen?",
+        "answer": "Ja. Im Expressservice liefern wir beglaubigte Dokumente je nach Umfang und Sprachpaar in nur 12 Stunden. Nennen Sie Ihre Frist in der Angebotsanfrage, und wir bestätigen umgehend, was möglich ist."
+      },
+      "business": {
+        "question": "Bieten Sie Geschäftskonten an?",
+        "answer": "Ja. Geschäftskonten umfassen einen festen Projektmanager, vereinbarte Preise, monatliche Rechnungsstellung und eine Terminologiedatenbank, die Ihre Formulierungen über alle Projekte hinweg konsistent hält."
+      },
+      "languages": {
+        "question": "Welche Sprachen unterstützen Sie?",
+        "answer": "Wir übersetzen derzeit zwischen Spanisch, Englisch, Französisch, Deutsch, Italienisch, Portugiesisch und Chinesisch in jeder Kombination. Weitere Sprachen sind auf Anfrage verfügbar; sagen Sie uns, was Sie benötigen, und wir bestätigen Verfügbarkeit und Preis."
+      },
+      "quote": {
+        "question": "Wie erhalte ich ein Angebot?",
+        "answer": "Öffnen Sie den Chat-Assistenten in der Ecke der Seite. Nennen Sie Sprachpaar, Dokumenttyp, Seiten- oder Wortzahl und Frist, und Sie erhalten ein Festpreisangebot, in der Regel innerhalb einer Geschäftsstunde."
+      }
+    }
+  },
+  "contact": {
+    "title": "Kontakt aufnehmen",
+    "description": "Der Chat-Assistent ist der schnellste Weg zu uns: Teilen Sie uns Ihre Projektdetails mit, und wir erstellen Ihr Angebot, während Sie weiterlesen.",
+    "cardTitle": "Für Sie da – auf Deutsch, Englisch, Spanisch oder Französisch",
+    "cardText": "Nennen Sie uns Sprachpaar, Dokumenttyp und Frist, und Sie erhalten ein Festpreisangebot, in der Regel innerhalb einer Geschäftsstunde.",
+    "cta": "Angebot vom Fachübersetzer erhalten",
+    "ctaNote": "Angebot kostenlos und unverbindlich.",
+    "emailLine": "Sie schreiben lieber eine E-Mail? Erreichen Sie uns unter <link>{email}</link>."
+  },
+  "careers": {
+    "metaTitle": "Mitarbeiten — Bewerbungen von Übersetzern | {companyName}",
+    "metaDescription": "Wir suchen laufend professionelle Übersetzerinnen und Übersetzer. Senden Sie Ihren Lebenslauf an jobs@translations.bluelab.ar mit Sprachkombinationen, Fachgebieten und Honoraren.",
+    "title": "Mitarbeiten",
+    "lead": "Wir sind ein Team professioneller Übersetzerinnen und Übersetzer, und jedes Projekt geht an eine Fachkraft für genau dieses Gebiet. Das funktioniert nur, wenn wir weiterhin gute Sprachprofis kennenlernen: Wenn Sie professionell übersetzen, freuen wir uns über Ihre Nachricht.",
+    "profile": {
+      "title": "Wen wir suchen",
+      "items": [
+        "Muttersprachlerinnen und Muttersprachler der Zielsprache, die ausschließlich in ihre Muttersprache übersetzen.",
+        "Ein Übersetzungsstudium oder eine nachweisbare Spezialisierung in Ihrem Fachgebiet.",
+        "Mindestens drei Jahre Berufserfahrung oder eine anerkannte Akkreditierung.",
+        "Ein echtes Fachgebiet: Recht, Medizin, Technik, Finanzen, beglaubigte Übersetzungen oder Software und Web.",
+        "Sicherer Umgang mit CAT-Tools und Glossaren, damit die Terminologie einheitlich bleibt.",
+        "Bereitschaft, vor Erhalt von Material eine Vertraulichkeitsvereinbarung zu unterzeichnen."
+      ]
+    },
+    "offer": {
+      "title": "Was wir bieten",
+      "items": [
+        "Aufträge in Ihrem Fachgebiet, nicht das, was gerade hereinkommt.",
+        "Vor Beginn schriftlich vereinbarte Honorare, gezahlt zum vereinbarten Termin.",
+        "Eine zweite Sprachkraft prüft jede Übersetzung: Sie sind nie die alleinige Kontrollinstanz.",
+        "Eine feste Ansprechperson im Projektmanagement, ohne Ausschreibungsplattformen.",
+        "Remote und flexibel: Es zählt der zugesagte Termin, nicht Ihre Arbeitszeiten."
+      ]
+    },
+    "apply": {
+      "title": "So bewerben Sie sich",
+      "intro": "Senden Sie Ihren Lebenslauf an <link>{email}</link>. Damit wir Sie richtig einordnen können, geben Sie bitte an:",
+      "items": [
+        "Ihre Sprachkombinationen und die Richtung, in die Sie übersetzen.",
+        "Ihre Fachgebiete und die Dokumentarten, mit denen Sie am häufigsten arbeiten.",
+        "Ihre Berufsjahre sowie Zertifizierungen oder Mitgliedschaften in Berufsverbänden.",
+        "Ihre Honorare pro Wort oder Stunde und Ihr übliches Tagespensum.",
+        "Die CAT-Tools, mit denen Sie arbeiten.",
+        "Ihre übliche Verfügbarkeit und Ihre Zeitzone."
+      ],
+      "note": "Wir lesen jede Bewerbung und antworten auf die, die wir einsetzen können. Passt Ihre Kombination gerade nicht zu unseren laufenden Aufträgen, behalten wir Ihre Unterlagen und melden uns, sobald sich das ändert."
+    }
+  },
+  "landing": {
+    "backToServices": "Alle Übersetzungsleistungen ansehen",
+    "certified": {
+      "metaTitle": "Beglaubigte Übersetzung amtlicher Dokumente | {companyName}",
+      "metaDescription": "Beglaubigte, amtliche Übersetzung von Pässen, Geburtsurkunden, Diplomen und Hochschulabschlüssen. Unterzeichnet und gestempelt, Lieferung ab 24 Stunden. Festpreisangebot per Chat.",
+      "headline": "Beglaubigte Übersetzung amtlicher Dokumente",
+      "intro": "Wir übersetzen und beglaubigen Pässe, Geburtsurkunden, Heiratsurkunden, Diplome, Hochschulabschlüsse und Führungszeugnisse. Jede beglaubigte Übersetzung wird unterzeichnet und gestempelt geliefert – bereit zur Vorlage bei Einwanderungsbehörden, Universitäten und Ämtern."
+    },
+    "legal": {
+      "metaTitle": "Professionelle juristische Übersetzung | {companyName}",
+      "metaDescription": "Juristische Übersetzung von Verträgen, Vollmachten, Gerichtsdokumenten und Compliance-Unterlagen durch juristisch ausgebildete Übersetzer. Volle Vertraulichkeit.",
+      "headline": "Professionelle juristische Übersetzung",
+      "intro": "Verträge, Vollmachten, Schriftsätze und Gerichtsentscheidungen, übersetzt von Sprachexperten mit Ausbildung in Rechtsvergleichung. Ob Sie einen Vertrag übersetzen oder ein Dokument bei Gericht einreichen müssen: Ein juristischer Übersetzer betreut Ihr Projekt von Anfang bis Ende, vollständig vertraulich."
+    },
+    "technical": {
+      "metaTitle": "Spezialisierte technische Übersetzung | {companyName}",
+      "metaDescription": "Technische Übersetzung von Handbüchern, technischen Spezifikationen und Sicherheitsdokumentation durch Übersetzer, die die Technik verstehen. Festpreisangebot per Chat.",
+      "headline": "Spezialisierte technische Übersetzung",
+      "intro": "Technische Handbücher, technische Spezifikationen, Sicherheitsdokumentation und Betriebsanweisungen, übersetzt von Fachleuten, die die zugrunde liegende Technik verstehen und Einheiten wie Terminologie exakt einhalten."
+    },
+    "medical": {
+      "metaTitle": "Professionelle medizinische Übersetzung | {companyName}",
+      "metaDescription": "Medizinische Übersetzung von Berichten, Protokollen klinischer Studien und pharmazeutischer Dokumentation durch Sprachexperten mit naturwissenschaftlichem Hintergrund.",
+      "headline": "Professionelle medizinische Übersetzung",
+      "intro": "Medizinische Berichte, Protokolle klinischer Studien, Patientenunterlagen und pharmazeutische Dossiers, übersetzt von Sprachexperten mit naturwissenschaftlichem Hintergrund und geprüft anhand medizinischer Standardterminologie."
+    }
+  },
+  "footer": {
+    "tagline": "Professionelle Humanübersetzung zwischen Spanisch, Englisch, Französisch, Deutsch, Italienisch, Portugiesisch und Chinesisch für Unternehmen und Privatpersonen. Zertifizierte Qualität, vertrauliche Behandlung, schnelle Lieferung.",
+    "location": "Ansässig in Argentinien, Chile und Peru, tätig für Kunden weltweit.",
+    "navigation": "Navigation",
+    "services": "Leistungen",
+    "industries": "Branchen",
+    "languages": "Sprachen",
+    "careers": "Mitarbeiten",
+    "followUs": "Folgen Sie uns",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen"
+  },
+  "legal": {
+    "backToHome": "Zurück zur Startseite",
+    "contactTitle": "Kontakt",
+    "privacy": {
+      "metaTitle": "Datenschutzerklärung | {companyName}",
+      "metaDescription": "Wie {companyName} Ihre personenbezogenen Daten und Dokumente erhebt, verwendet und schützt.",
+      "title": "Datenschutzerklärung",
+      "sections": {
+        "collect": {
+          "title": "Welche Daten wir erheben",
+          "body": "Wenn Sie ein Angebot anfordern oder unseren Chat-Assistenten nutzen, erheben wir die Informationen, die Sie uns mitteilen: Ihren Namen, Ihre Kontaktdaten und die Dokumente, die Sie zur Übersetzung hochladen. Außerdem speichern wir die technischen Sitzungsdaten, die nötig sind, um Ihre Unterhaltung verbunden zu halten."
+        },
+        "use": {
+          "title": "Wie wir Ihre Daten verwenden",
+          "body": "Ihre Daten werden ausschließlich verwendet, um Angebote zu erstellen, Übersetzungsleistungen zu erbringen und mit Ihnen über Ihre Projekte zu kommunizieren. Wir verkaufen keine personenbezogenen Daten und nutzen Ihre Dokumente für keinen anderen Zweck als die von Ihnen beauftragte Arbeit."
+        },
+        "documents": {
+          "title": "Ihre Dokumente",
+          "body": "Hochgeladene Dokumente werden über verschlüsselte Verbindungen übertragen und sind nur für die Ihrem Projekt zugewiesenen Mitarbeiter und Sprachexperten zugänglich, die alle an Vertraulichkeitsvereinbarungen gebunden sind. Dokumente werden gelöscht, wenn die zugehörige Sitzung bereinigt wird oder auf Anfrage. Gerne unterzeichnen wir eine Vertraulichkeitsvereinbarung, bevor Sie sensibles Material teilen."
+        },
+        "cookies": {
+          "title": "Cookies",
+          "body": "Wir verwenden ein einziges Sitzungscookie, das Ihre Angebotskonversation verbunden hält. Es enthält keine Tracking-Kennungen und läuft innerhalb von 24 Stunden ab."
+        },
+        "rights": {
+          "title": "Ihre Rechte",
+          "body": "Sie können eine Kopie der personenbezogenen Daten anfordern, die wir über Sie gespeichert haben, deren Berichtigung verlangen oder deren Löschung beantragen – vorbehaltlich gesetzlicher Aufbewahrungspflichten für abgeschlossene Aufträge."
+        }
+      },
+      "contactBody": "Fragen zu dieser Erklärung senden Sie bitte an <link>{email}</link>."
+    },
+    "terms": {
+      "metaTitle": "Nutzungsbedingungen | {companyName}",
+      "metaDescription": "Die Bedingungen für Übersetzungsleistungen von {companyName}.",
+      "title": "Nutzungsbedingungen",
+      "sections": {
+        "quotations": {
+          "title": "Angebote",
+          "body": "Jedes Projekt beginnt mit einem schriftlichen Angebot mit Festpreis und Liefertermin. Angebote sind kostenlos, unverbindlich und 30 Tage gültig, sofern nicht anders angegeben. Die Arbeit beginnt erst, nachdem Sie das Angebot angenommen haben."
+        },
+        "delivery": {
+          "title": "Lieferung",
+          "body": "Wir liefern Übersetzungen zum im Angebot bestätigten Termin im vereinbarten Format. Falls eine unvorhergesehene Verzögerung eintritt, informieren wir Sie so schnell wie möglich und vereinbaren einen neuen Termin, bevor wir fortfahren."
+        },
+        "quality": {
+          "title": "Qualität und Korrekturen",
+          "body": "Jede Übersetzung wird von einem professionellen Übersetzer angefertigt und von einem zweiten Sprachexperten geprüft. Falls ein Teil einer gelieferten Übersetzung angepasst werden muss, sind Korrekturen 30 Tage nach der Lieferung kostenlos enthalten."
+        },
+        "confidentiality": {
+          "title": "Vertraulichkeit",
+          "body": "Alles Material, das Sie mit uns teilen, wird vertraulich behandelt – unabhängig davon, ob eine gesonderte Vertraulichkeitsvereinbarung besteht. Der Zugriff ist auf das Ihrem Projekt zugewiesene Team beschränkt."
+        },
+        "payment": {
+          "title": "Zahlung",
+          "body": "Privatkunden zahlen bei Lieferung, sofern nicht anders vereinbart. Geschäftskunden werden monatlich mit einem Zahlungsziel von 30 Tagen abgerechnet. Akzeptiert werden gängige Kreditkarten, Banküberweisung und Kryptowährungen (direkte Wallet-Überweisung oder Binance Pay)."
+        },
+        "liability": {
+          "title": "Haftung",
+          "body": "Unsere Haftung für Ansprüche aus einer Übersetzung ist auf die für das betroffene Projekt gezahlten Gebühren begrenzt. Für Entscheidungen Dritter, etwa von Behörden, auf Grundlage übersetzter Dokumente sind wir nicht verantwortlich."
+        }
+      },
+      "contactBody": "Fragen zu diesen Bedingungen senden Sie bitte an <link>{email}</link>."
+    }
+  },
+  "assistant": {
+    "dialogLabel": "Angebotsassistent",
+    "open": "Angebot vom Fachübersetzer erhalten",
+    "minimize": "Angebotsassistenten minimieren",
+    "title": "Angebotsassistent",
+    "subtitle": "{companyName}",
+    "minimizeChat": "Chat minimieren",
+    "connecting": "Verbindung wird hergestellt...",
+    "uploading": "{fileName} wird hochgeladen… {percent} %",
+    "ended": "Diese Unterhaltung ist beendet. Laden Sie die Seite neu, um eine neue zu beginnen.",
+    "closedByOperator": "Unser Team hat diese Unterhaltung geschlossen. Vielen Dank für Ihre Anfrage! Laden Sie die Seite neu, um eine neue zu beginnen.",
+    "status": {
+      "connecting": "Verbindung wird hergestellt...",
+      "connected": "Verbunden",
+      "reconnecting": "Verbindung wird wiederhergestellt...",
+      "disconnected": "Getrennt"
+    }
+  },
+  "chat": {
+    "conversation": "Unterhaltung",
+    "you": "Sie",
+    "specialist": "Spezialist",
+    "typing": "Der Spezialist schreibt...",
+    "newMessages": "{count, plural, =1 {1 neue Nachricht} other {# neue Nachrichten}}",
+    "messageLabel": "Nachricht",
+    "placeholder": "Ihre Nachricht eingeben...",
+    "sendMessage": "Nachricht senden",
+    "attach": "Dokument anhängen",
+    "dismissError": "Fehlermeldung schließen"
+  },
+  "errors": {
+    "unsupported-type": "Dieser Dateityp wird nicht unterstützt. Bitte teilen Sie ein Dokument (PDF, Word, ODT, TXT, RTF) oder eine Aufnahme (MP3, WAV, M4A, MP4, MOV, WEBM).",
+    "too-large": "Diese Datei ist zu groß. Die maximale Größe beträgt {maxSizeMb} MB.",
+    "empty": "Diese Datei scheint leer zu sein.",
+    "failed": "Ihre Datei konnte nicht geteilt werden. Bitte versuchen Sie es erneut.",
+    "network": "Ihre Datei konnte nicht geteilt werden. Bitte prüfen Sie Ihre Verbindung."
+  }
+}

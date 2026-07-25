@@ -1,0 +1,270 @@
+@import 'tailwindcss';
+
+/*
+ * Raw palette per color scheme. The @theme block below maps these onto the
+ * semantic design tokens — components must always use the tokens, never raw colors.
+ */
+:root {
+  color-scheme: light;
+
+  --background: #f7f8fb;
+  --surface: #ffffff;
+  --surface-secondary: #eef1f6;
+
+  --foreground: #0b1220;
+  --foreground-secondary: #46536b;
+  --muted: #5e6a81;
+  --disabled: #9aa5b8;
+
+  --primary: #2563eb;
+  --primary-hover: #1d4ed8;
+  --primary-pressed: #1e40af;
+  --primary-soft: #e8eefc;
+  --on-primary: #ffffff;
+
+  --accent: #b45309;
+  --accent-soft: #f8ecd9;
+
+  /* Dark brand surfaces (hero showcase, stats band, footer, featured cards). */
+  --navy: #101a3d;
+  --navy-ink: #0a1129;
+  --on-navy: #eef2fc;
+  --navy-muted: #a5b1d4;
+
+  --border: #e3e7ef;
+  --border-strong: #ccd3e0;
+
+  --success: #15803d;
+  --warning: #a16207;
+  --error: #dc2626;
+  --info: #0e7490;
+
+  --customer-bubble: #e8eefc;
+
+  --elevation-soft: 0 1px 2px rgba(11, 18, 32, 0.04), 0 2px 6px -1px rgba(11, 18, 32, 0.06);
+  --elevation-raised:
+    0 1px 2px rgba(11, 18, 32, 0.04), 0 6px 16px -4px rgba(11, 18, 32, 0.08),
+    0 20px 40px -16px rgba(11, 18, 32, 0.12);
+  --elevation-lifted:
+    0 2px 4px rgba(11, 18, 32, 0.08), 0 12px 24px -6px rgba(11, 18, 32, 0.14),
+    0 32px 64px -24px rgba(11, 18, 32, 0.24);
+  --elevation-button: inset 0 1px 0 rgba(255, 255, 255, 0.12), 0 1px 2px rgba(11, 18, 32, 0.16);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+
+    --background: #0a0e19;
+    --surface: #111624;
+    --surface-secondary: #1a2133;
+
+    --foreground: #eaeef8;
+    --foreground-secondary: #a8b2c7;
+    --muted: #7e8aa3;
+    --disabled: #55617a;
+
+    /* Light-blue primary with dark label text keeps AA contrast on dark surfaces. */
+    --primary: #6d95ff;
+    --primary-hover: #82a5ff;
+    --primary-pressed: #5c86f5;
+    --primary-soft: #1b2440;
+    --on-primary: #0b1220;
+
+    --accent: #e0a94e;
+    --accent-soft: #2a2312;
+
+    --navy: #141d38;
+    --navy-ink: #0d1428;
+    --on-navy: #e9edf9;
+    --navy-muted: #97a3c9;
+
+    --border: #222b40;
+    --border-strong: #34405c;
+
+    --success: #4ade80;
+    --warning: #f0b95a;
+    --error: #f87171;
+    --info: #38bdf8;
+
+    --customer-bubble: #1d2946;
+
+    --elevation-soft: 0 1px 2px rgba(0, 0, 0, 0.4);
+    --elevation-raised: 0 1px 2px rgba(0, 0, 0, 0.4), 0 8px 20px -6px rgba(0, 0, 0, 0.5);
+    --elevation-lifted: 0 4px 8px rgba(0, 0, 0, 0.4), 0 20px 40px -12px rgba(0, 0, 0, 0.6);
+    --elevation-button: inset 0 1px 0 rgba(255, 255, 255, 0.08), 0 1px 2px rgba(0, 0, 0, 0.4);
+  }
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-surface-secondary: var(--surface-secondary);
+
+  --color-foreground: var(--foreground);
+  --color-foreground-secondary: var(--foreground-secondary);
+  --color-muted: var(--muted);
+  --color-disabled: var(--disabled);
+
+  --color-primary: var(--primary);
+  --color-primary-hover: var(--primary-hover);
+  --color-primary-pressed: var(--primary-pressed);
+  --color-primary-soft: var(--primary-soft);
+  --color-on-primary: var(--on-primary);
+
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+
+  --color-navy: var(--navy);
+  --color-navy-ink: var(--navy-ink);
+  --color-on-navy: var(--on-navy);
+  --color-navy-muted: var(--navy-muted);
+
+  --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
+
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+  --color-error: var(--error);
+  --color-info: var(--info);
+
+  --color-customer-bubble: var(--customer-bubble);
+
+  --font-sans: var(--font-inter), 'Inter', ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-space-grotesk), var(--font-inter), ui-sans-serif, sans-serif;
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-xl: 18px;
+  --radius-2xl: 22px;
+
+  --shadow-soft: var(--elevation-soft);
+  --shadow-raised: var(--elevation-raised);
+  --shadow-lifted: var(--elevation-lifted);
+  --shadow-button: var(--elevation-button);
+
+  --animate-menu-in: menu-in 250ms cubic-bezier(0.16, 1, 0.3, 1) both;
+  --animate-panel-in: panel-in 300ms cubic-bezier(0.16, 1, 0.3, 1) both;
+  --animate-typing: typing 1.2s ease-in-out infinite;
+
+  @keyframes menu-in {
+    from {
+      opacity: 0;
+      transform: translateY(-8px);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
+  }
+
+  @keyframes panel-in {
+    from {
+      opacity: 0;
+      transform: translateY(16px) scale(0.98);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
+  }
+
+  @keyframes typing {
+    0%,
+    60%,
+    100% {
+      opacity: 0.4;
+      transform: none;
+    }
+    30% {
+      opacity: 1;
+      transform: translateY(-3px);
+    }
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+}
+
+::selection {
+  background-color: var(--primary);
+  color: var(--on-primary);
+}
+
+/* Keep anchored sections clear of the sticky header. */
+[id] {
+  scroll-margin-top: 88px;
+}
+
+/* Soft brand glow behind the hero; decorative only. */
+.hero-glow {
+  background:
+    radial-gradient(
+      640px 420px at 85% -10%,
+      color-mix(in srgb, var(--primary) 13%, transparent),
+      transparent 70%
+    ),
+    radial-gradient(
+      520px 380px at -10% 40%,
+      color-mix(in srgb, var(--accent) 7%, transparent),
+      transparent 70%
+    );
+}
+
+/* Scroll-reveal: elements start hidden and slide up once they enter the viewport. */
+.reveal {
+  opacity: 0;
+  transform: translateY(18px);
+  transition:
+    opacity 700ms cubic-bezier(0.16, 1, 0.3, 1),
+    transform 700ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.reveal.is-visible {
+  opacity: 1;
+  transform: none;
+}
+
+/* Smooth FAQ accordion open/close in browsers that can animate to height: auto. */
+@supports (interpolate-size: allow-keywords) {
+  :root {
+    interpolate-size: allow-keywords;
+  }
+
+  details::details-content {
+    block-size: 0;
+    overflow-y: clip;
+    transition:
+      block-size 300ms cubic-bezier(0.16, 1, 0.3, 1),
+      content-visibility 300ms allow-discrete;
+  }
+
+  details[open]::details-content {
+    block-size: auto;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .reveal {
+    opacity: 1;
+    transform: none;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
